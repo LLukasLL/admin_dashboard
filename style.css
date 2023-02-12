@@ -147,7 +147,7 @@ path {
   grid-row: 2/3;
   display: grid;
   grid-template-columns: 3fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: auto auto;
 }
 
 .article-header {
